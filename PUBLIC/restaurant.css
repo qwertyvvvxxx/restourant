@@ -11,7 +11,7 @@ body{
 }
 
 .header{
-  background-image: url(fone.jpg);
+  background-image: url('images/fone.jpg');
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -241,7 +241,7 @@ body{
     justify-content: space-between;
 }
 .black-block {
-    background-image: url(bg.jpg);
+    background-image: url('images/bg.jpg');
     padding: 50px 0;
 }
 .left-title {
@@ -517,9 +517,6 @@ body{
     .dishes-fotos-right {
         margin: 35px auto;
     }
-    
-
-    
 }
 @media (max-width: 1400px) {
     .staff-galery {
@@ -608,8 +605,6 @@ body{
 }
 @media (max-width: 855px) {
     .img-gal {
-        /* margin-right: auto;
-        margin-left: auto; */
         display: block;
         margin-bottom: 40px;
 
@@ -652,5 +647,3 @@ body{
         margin-top: 670px;
     }
 }
-
-
