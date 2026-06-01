@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "restorant-d84f8"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
